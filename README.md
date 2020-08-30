@@ -1,5 +1,5 @@
 ### Hi there 👋
-About me: Java/kotlin enthusiast.
+About me: Java/kotlin enthusiast.<br>
 I’m currently working on redesigning EarthquakeFinder application to REST application
 
 
