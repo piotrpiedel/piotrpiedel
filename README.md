@@ -1,4 +1,7 @@
 ### Hi there 👋
+About me: Java/kotlin enthusiast.
+I’m currently working on redesigning EarthquakeFinder application to REST application
+
 
 <!--
 **piotrpiedel/piotrpiedel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
