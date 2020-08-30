@@ -1,6 +1,6 @@
 ### Hi there 👋
 About me: Java/kotlin enthusiast.<br>
-I’m currently working on redesigning EarthquakeFinder application to REST application.
+I’m currently working on redesigning EarthquakeFinder application to REST application. <br>
 Future: develop full OCR for receipts - detecting letters, edges, deskew image, improve black-white saturation using Adaptive thresholding algorithm etc.
 Finally develop alghoritm to recognize output from OCR.
 
